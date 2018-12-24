@@ -1,4 +1,4 @@
-[example]: https://raw.githubusercontent.com/redditlockpicks/designs/master/lockpick-template-finished-example.png "Lockpick Design Example"
+![example](https://raw.githubusercontent.com/redditlockpicks/designs/master/lockpick-template-finished-example.png "Lockpick Design Example")
 
 # designs
 Here are three sets of lockpicks with slightly different designs.
